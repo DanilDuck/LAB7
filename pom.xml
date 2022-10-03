@@ -1,0 +1,21 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ru.trickyfoxy</groupId>
+    <artifactId>lab6</artifactId>
+    <version>1</version>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+    <packaging>pom</packaging>
+    <modules>
+        <module>Client</module>
+        <module>Server</module>
+        <module>Common</module>
+    </modules>
+
+    <name>lab6</name>
+
+</project>
